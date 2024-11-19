@@ -1,0 +1,15 @@
+.ubuntu-bold {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  body{
+    background-color: #a4f8fa;
+  }
+
+  .container-header{
+    height: 100px;
+    background-color: white;
+
+  }
